@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FlyFilms</string>
+    <string name="firstButton">Нажми меня нежно</string>
+    <string name="clearButton">Очистить</string>
 </resources>
